@@ -1,0 +1,1 @@
+# Minimal Typesense bug reproduction
